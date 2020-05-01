@@ -1,0 +1,16 @@
+{
+  "name": "middleware",
+  "version": "1.0.0",
+  "description": "Middleware for stewarts platform to calculate the math",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edvin",
+  "license": "ISC",
+  "dependencies": {
+    "quaternion": "^1.1.0",
+    "stewart": "^1.0.0"
+  }
+}
